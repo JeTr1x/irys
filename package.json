@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@irys/sdk": "^0.1.6",
-    "dotenv": "^16.4.4"
+    "@irys/sdk": "^0.1.6"
   }
 }
